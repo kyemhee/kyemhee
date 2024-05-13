@@ -1,6 +1,6 @@
 # About Me
 
-I am a dedicated person who graduated Hanyang University, where I served as Student President for four years, refining my leadership skills and fostering collaboration. My passion for soccer and basketball instilled values of teamwork and determination. I'm distinguished by my eagerness to learn, currently fascinated by Autonomous Driving technology. I aspire to contribute to its advancement through further education and research, leveraging my academic foundation and leadership experience. I am a strong candidate for studies in Autonomous Driving.
+I am a dedicated person who graduated from Hanyang University, where I served as Student President for four years, refining my leadership skills and fostering collaboration. My passion for soccer and basketball instilled values of teamwork and determination. I'm distinguished by my eagerness to learn, and currently fascinated by Autonomous Driving technology. I aspire to contribute to its advancement through further education and research, leveraging my academic foundation and leadership experience. I am a strong candidate for studies in Autonomous Driving.
 
 
 ## Education
@@ -31,10 +31,14 @@ Language
 ## Projects
 
 ### Hanyang University
-Autonomous Driving using Arduino
+
+Microprocessor Application System (Junior 2021)
+  - Designed an Autonomous Driving indoor delivery robot using Pixy Camera, Ultrasonic Sensor, and other materials.
 
 
-SLAM & Path Planning using ROS
+SLAM & Path Planning using ROS (Undergraduate Thesis / Senior 2022)
+  - Implemented SLAM using ROS melodic (Software) and RP Lidar S1 + Turtlebot/Kobuki (Hardware)
+
 
 ### AddinEdu
 EDA Project - Fashion Trend Data Analysis
